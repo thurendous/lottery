@@ -6,8 +6,9 @@ import { render } from "@testing-library/react";
 
 class App extends Component {
   render() {
-    web3.eth.getAccounts()
-      .then(console.log);
+    // 这里我们是打印出这个account的地址。
+    // web3.eth.getAccounts()
+    // .then(console.log);
     return (
       <div className="App" >
         <header className="App-header">
