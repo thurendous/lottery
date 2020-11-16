@@ -1,3 +1,8 @@
+# how to start this LOTTERY SYSTEM  
+You should deploy a version of your smart contract and interact with this version of lottery-react. if you have any question contact me for more info.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
